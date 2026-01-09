@@ -1,9 +1,9 @@
 # 📅 Plan Mate - Productivity Redefined
 
 <p align="center">
-  <img src="UI PLAN MATE.jpg" alt="Plan Mate Banner" width="600px">
+  <img src="Plan Mate B.png" alt="Plan Mate Banner" width="800px">
   <br>
-  <b>Aplikasi Pengingat Jadwal Modern </b>
+  <b>Aplikasi Pengingat Jadwal Modern dengan Sentuhan Lokal Bekasi.</b>
 </p>
 
 <p align="center">
@@ -49,13 +49,13 @@ Aplikasi ini memiliki alur kerja yang intuitif yang terbagi ke dalam 4 layar uta
 * **Nama:** Dedi Ramadhan
 * **Kelas:** TI.24.A.4
 * **NIM:** 312410171
-* **Dosen Pengampu:** Donny Maulana,S.Kom., M.M.S.I.
+* **Dosen Pengampu:** Donny Maulana, S.Kom., M.M.S.I.
 
 ---
 
 ## ✉️ Catatan Khusus & Disclaimer (Pesan untuk Dosen)
 
-> **Yth. Bapak Dosen Pengampu,**
+> **Yth. Bapak Donny Maulana, S.Kom., M.M.S.I.**
 >
 > Melalui catatan ini, saya ingin memohon maaf dan menjelaskan kondisi terkait proses pengerjaan proyek ini. Menjelang batas waktu pengumpulan, perangkat komputer utama saya mengalami **kerusakan teknis yang cukup parah**, yang mengakibatkan sebagian besar data progress pengerjaan langsung di Android Studio hilang.
 >
@@ -65,10 +65,10 @@ Aplikasi ini memiliki alur kerja yang intuitif yang terbagi ke dalam 4 layar uta
 >
 > Hal ini menyebabkan seluruh log aktivitas di **ClickUp** dan commit di **Android Studio** tercatat dilakukan pada hari yang sama (hari ini) karena adanya *reset progress*. Saya berharap Bapak dapat memahami situasi darurat ini sebagai bentuk tanggung jawab saya untuk tetap menyelesaikan tugas tepat waktu meskipun dalam kondisi yang sulit.
 >
-> Terima kasih atas perhatian dan kebijaksanaan Bapak/Ibu.
+> Terima kasih atas perhatian dan kebijaksanaan Bapak.
 
 ---
 
 <p align="center">
-  <b>Plan Mate Project © 2024</b>
+  <b>Plan Mate Project © 2026</b>
 </p>
