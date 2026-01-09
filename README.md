@@ -3,7 +3,6 @@
 <p align="center">
   <img src="Plan Mate B.png" alt="Plan Mate Banner" width="800px">
   <br>
-  <b>Aplikasi Pengingat Jadwal Modern dengan Sentuhan Lokal Bekasi.</b>
 </p>
 
 <p align="center">
@@ -39,9 +38,9 @@ Aplikasi ini memiliki alur kerja yang intuitif yang terbagi ke dalam 4 layar uta
 ---
 
 ## 📸 Dokumentasi Antarmuka
-| Splash Screen | Home Screen | Tambah Jadwal | Reminder |
+| Splash Screen | Home Screen | Tambah Jadwal | Reminder (Hasil) |
 |:---:|:---:|:---:|:---:|
-| <img src="UI PLAN MATE.jpg" width="180"> | <img src="UI PLAN MATE.jpg" width="180"> | <img src="UI PLAN MATE.jpg" width="180"> | <img src="UI PLAN MATE.jpg" width="180"> |
+| <img src="Splash_Screen.jpeg" width="180"> | <img src="Daftar_Jadwal.jpeg" width="180"> | <img src="Add_Schedule.jpeg" width="180"> | <img src="Hasil.jpeg" width="180"> |
 
 ---
 
