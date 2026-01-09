@@ -1,27 +1,21 @@
-# TUGAS UAS PEMOGRAMAN MOBILE
-Nama: Dedi Ramadhan
-NIM: 312410171
-Kelas: TI.24.A.4
-Dosen Pengampu: Donny Maulana,S.Kom., M.M.S.I.
-
 # 📅 Plan Mate - Productivity Redefined
 
 <p align="center">
   <img src="UI PLAN MATE.jpg" alt="Plan Mate Banner" width="600px">
   <br>
-  <b>Aplikasi Pengingat Jadwal Modern dengan Sentuhan Lokal Bekasi.</b>
+  <b>Aplikasi Pengingat Jadwal Modern </b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Platform">
-  <img src="https://img.shields.io/badge/UI%2FUX-Figma-blueviolet?style=for-the-badge&logo=figma" alt="Design">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/IDE-Android%20Studio-blue?style=for-the-badge&logo=android-studio" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Management-ClickUp-white?style=for-the-badge&logo=clickup" alt="ClickUp">
 </p>
 
 ---
 
 ## 📌 Tentang Plan Mate
-**Plan Mate** adalah solusi manajemen waktu yang dirancang untuk membantu pengguna tetap produktif dan disiplin. Dengan antarmuka yang bersih dan minimalis, aplikasi ini memastikan setiap agenda kamu di Bekasi (dan sekitarnya) tidak terlewatkan.
+**Plan Mate** adalah solusi manajemen waktu yang dirancang untuk membantu pengguna tetap produktif dan disiplin. Dengan antarmuka yang bersih dan minimalis, aplikasi ini memastikan setiap agenda kamu di Bekasi tidak terlewatkan.
 
 ---
 
@@ -29,47 +23,52 @@ Dosen Pengampu: Donny Maulana,S.Kom., M.M.S.I.
 
 Aplikasi ini memiliki alur kerja yang intuitif yang terbagi ke dalam 4 layar utama:
 
-### ⚡ 1. Splash Screen
-Layar pertama yang menyapa pengguna dengan identitas visual yang kuat.
-* **Local Pride:** Menampilkan logo Bekasi dan sapaan *"Hai, kamu sedang ada di Bekasi!"*.
-* **Branding:** Menonjolkan nama aplikasi dengan tipografi yang tegas.
-
-### 🏠 2. Home Screen
-Pusat kontrol aktivitas harian pengguna.
-* **Progress Tracking:** Fitur bar progres untuk memantau sejauh mana tugas harian sudah diselesaikan.
-* **Quick View:** Menampilkan daftar jadwal (uekas) yang aktif secara ringkas.
-* **Floating Action Button:** Tombol `+` kuning yang kontras untuk menambah jadwal dengan cepat.
-
-### ➕ 3. Tambah Jadwal
-Layar input yang simpel dan efisien.
-* **Form Input:** Terdiri dari kolom judul tugas, deskripsi, dan waktu.
-* **Simpan Action:** Tombol **SIMPAN** yang besar dan mudah ditekan untuk memastikan data tersimpan ke database lokal.
-
-### 🔔 4. Pengingat (Reminder)
-Sistem notifikasi real-time agar kamu tetap tepat waktu.
-* **Smart Notification:** Menampilkan badge jumlah tugas (seperti "Belajar 1").
-* **Mark as Done:** Tombol **SELESAI** untuk langsung mengupdate progres di halaman utama secara otomatis.
+1. **Splash Screen:** Menampilkan identitas lokal Bekasi dan menyapa pengguna secara personal.
+2. **Home Screen:** Pusat kontrol untuk melihat daftar jadwal serta *Progress Bar* untuk memantau produktivitas harian.
+3. **Tambah Jadwal:** Formulir input cepat untuk memasukkan agenda baru ke dalam sistem.
+4. **Pengingat (Reminder):** Notifikasi *real-time* dengan opsi "Selesai" untuk menandai tugas yang telah dikerjakan.
 
 ---
 
-## 🛠️ Tech Stack & Alat
-* **Design:** UI/UX dirancang dengan fokus pada *Readability* dan *Ease of Use*.
-* **Warna Utama:** Blue Dark (#102C57) & Vibrant Yellow (#FEBB01).
+## 🛠️ Tech Stack & Alat Pengembangan
+* **Bahasa Pemrograman:** Java
+* **IDE:** Android Studio
+* **Manajemen Proyek:** ClickUp (Task Tracking & Progress)
+* **Desain UI/UX:** Figma/Storyboarding
 
 ---
 
 ## 📸 Dokumentasi Antarmuka
-> Gunakan tabel di bawah ini untuk menampilkan screenshot aplikasi agar lebih rapi.
-
 | Splash Screen | Home Screen | Tambah Jadwal | Reminder |
 |:---:|:---:|:---:|:---:|
 | <img src="UI PLAN MATE.jpg" width="180"> | <img src="UI PLAN MATE.jpg" width="180"> | <img src="UI PLAN MATE.jpg" width="180"> | <img src="UI PLAN MATE.jpg" width="180"> |
 
-*Catatan: Sesuaikan link gambar di atas dengan folder penyimpanan aset kamu di repository.*
+---
+
+## 👤 Identitas Mahasiswa
+* **Nama:** Dedi Ramadhan
+* **Kelas:** TI.24.A.4
+* **NIM:** 312410171
+* **Dosen Pengampu:** Donny Maulana,S.Kom., M.M.S.I.
 
 ---
 
-## 🚀 Cara Menjalankan Project
-1. Clone repository ini:
-   ```bash
-   git clone [https://github.com/username-lo/plan-mate.git](https://github.com/username-lo/plan-mate.git)
+## ✉️ Catatan Khusus & Disclaimer (Pesan untuk Dosen)
+
+> **Yth. Bapak Dosen Pengampu,**
+>
+> Melalui catatan ini, saya ingin memohon maaf dan menjelaskan kondisi terkait proses pengerjaan proyek ini. Menjelang batas waktu pengumpulan, perangkat komputer utama saya mengalami **kerusakan teknis yang cukup parah**, yang mengakibatkan sebagian besar data progress pengerjaan langsung di Android Studio hilang.
+>
+> Beruntung, saya masih memiliki backup berupa **Storyboard, UI/UX, dan Wireframe lama**. Oleh karena itu, saya memutuskan untuk mengerjakan ulang proyek ini dari awal secara intensif dalam waktu satu hari. 
+> 
+> Dalam proses *recovery* ini, saya meminjam perangkat laptop milik teman yang lebih memadai dan dibantu oleh rekan tersebut sebagai mentor agar proses pengerjaan tetap terarah dan meminimalisir kendala teknis tambahan.
+>
+> Hal ini menyebabkan seluruh log aktivitas di **ClickUp** dan commit di **Android Studio** tercatat dilakukan pada hari yang sama (hari ini) karena adanya *reset progress*. Saya berharap Bapak dapat memahami situasi darurat ini sebagai bentuk tanggung jawab saya untuk tetap menyelesaikan tugas tepat waktu meskipun dalam kondisi yang sulit.
+>
+> Terima kasih atas perhatian dan kebijaksanaan Bapak/Ibu.
+
+---
+
+<p align="center">
+  <b>Plan Mate Project © 2024</b>
+</p>
